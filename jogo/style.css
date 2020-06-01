@@ -5,5 +5,27 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: #CC2424;
+    color: #181414;
+    border-style: groove;
+    border-width: 42px;
+    border-color: #979090;
+    background-color:#24B8DD;
+    
 }
+
+canvas{
+    border-width: 20px;
+    background-size: 5px;
+    border-style: groove;
+    border-color: #D32AAE;
+    
+    
+}
+
+h1 {
+    font-size: 30px;
+    border-width: 20px;
+    border-style: groove;
+    border-color: #B9206D;
+    }
+  
