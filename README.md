@@ -2,7 +2,7 @@
 game snake/JavaScript
 
 Projeto realizado na Digital Innovation One.
-Utilizando Canvas.
+Utilizando Tecnologia Canvas.
 
 Modificações realizadas no arquivo style.css
 
